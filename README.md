@@ -58,10 +58,10 @@ Soy un desarrollador de software apasionado, actualmente enfocado en el desarrol
 
 <!-- 
 ----
-[<img src="https://github-profile-trophy.vercel.app/?username=durgeshsamariya&row=2&column=3" />](https://github.com/ALFONSOVM13/github-profile-trophy)
-[<img src="https://github-readme-stats.vercel.app/api?username=durgeshsamariya&theme=algolia&count_private=true&include_all_commits=true&show_icons=true" />](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=durgeshsamariya&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
-[![Durgesh's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themlphdstudent&theme=algolia&hide=Jupyter&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[<img src="https://github-profile-trophy.vercel.app/?username=alfonsovm13&row=2&column=3" />](https://github.com/ALFONSOVM13/github-profile-trophy)
+[<img src="https://github-readme-stats.vercel.app/api?username=alfonsovm13&theme=algolia&count_private=true&include_all_commits=true&show_icons=true" />](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alfonsovm13&theme=dark)](https://github.com/alfonsovm13/github-readme-streak-stats)
+[![Alfonso VM Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfonsovm13&theme=algolia&hide=Jupyter&layout=compact&show_icons=true)](https://github.com/alfonsovm13/github-readme-stats)
  -->
 
 <!--
