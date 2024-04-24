@@ -19,7 +19,7 @@ Soy un desarrollador de software apasionado, especializado en el desarrollo de a
 ### 📫 Cómo alcanzarme:
 
 - Email: alfonsovengoechea@gmail.com
-- LinkedIn: [Tu LinkedIn](https://www.linkedin.com/in/alfonsovengoechea/)
+- LinkedIn: [MI LinkedIn](https://www.linkedin.com/in/alfonsovengoechea/)
 
 ### 📚 Un poco más sobre mí:
 
